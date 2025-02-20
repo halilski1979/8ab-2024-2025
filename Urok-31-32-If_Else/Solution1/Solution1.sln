@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Kvadrat", "P02 - Kvad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - Kvadrat-Perimetar", "P03 - Kvadrat-Perimetar\P03 - Kvadrat-Perimetar.csproj", "{15C4DE52-52EA-4E7A-9211-003ECF0EAF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - Pravoagalnik - LicePer", "P04 - Pravoagalnik - LicePer\P04 - Pravoagalnik - LicePer.csproj", "{AE7778D8-B2EB-449D-BBBA-9070A88EB17B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{15C4DE52-52EA-4E7A-9211-003ECF0EAF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15C4DE52-52EA-4E7A-9211-003ECF0EAF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15C4DE52-52EA-4E7A-9211-003ECF0EAF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7778D8-B2EB-449D-BBBA-9070A88EB17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7778D8-B2EB-449D-BBBA-9070A88EB17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7778D8-B2EB-449D-BBBA-9070A88EB17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7778D8-B2EB-449D-BBBA-9070A88EB17B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
