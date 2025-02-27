@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06 - PoGolqmoChislo", "P06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07  - PoGolomoChislo", "P07  - PoGolomoChislo\P07  - PoGolomoChislo.csproj", "{136216E5-EE76-4512-9CE9-592B8BE220E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08 - CheckRadioButon", "P08 - CheckRadioButon\P08 - CheckRadioButon.csproj", "{7C1787D8-F5AE-4FC9-92AE-E33F12C0B315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09 - ChetnoNechetno", "P09 - ChetnoNechetno\P09 - ChetnoNechetno.csproj", "{4FE5B912-569B-4679-A747-76759277369B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{136216E5-EE76-4512-9CE9-592B8BE220E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136216E5-EE76-4512-9CE9-592B8BE220E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136216E5-EE76-4512-9CE9-592B8BE220E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1787D8-F5AE-4FC9-92AE-E33F12C0B315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1787D8-F5AE-4FC9-92AE-E33F12C0B315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1787D8-F5AE-4FC9-92AE-E33F12C0B315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1787D8-F5AE-4FC9-92AE-E33F12C0B315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE5B912-569B-4679-A747-76759277369B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE5B912-569B-4679-A747-76759277369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE5B912-569B-4679-A747-76759277369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE5B912-569B-4679-A747-76759277369B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

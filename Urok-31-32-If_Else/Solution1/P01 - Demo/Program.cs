@@ -4,16 +4,16 @@
     {
         static void Main(string[] args)
         {
-            int a=int.Parse(Console.ReadLine());
+           int a=int.Parse(Console.ReadLine());
 
             if (a>0)
             {
-                Console.WriteLine($"{a} e polojitelno.");
+                Console.WriteLine($"{a}>0");
             }
             else
             {
-                Console.WriteLine($" {a} e otricatelno");           
-            }
+                Console.WriteLine($"{a}<0");
+            } 
 
 
         }

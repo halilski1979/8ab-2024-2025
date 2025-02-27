@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
            int a=int.Parse(Console.ReadLine());
-
+            
             if (a > 0)
             {
                 int s = a * a;
@@ -16,6 +16,10 @@
                 Console.WriteLine("Error");
             }
 
+            if (a>0 )
+            {
+                
+            }
         }
     }
 }
