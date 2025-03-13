@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08 - CheckRadioButon", "P0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09 - ChetnoNechetno", "P09 - ChetnoNechetno\P09 - ChetnoNechetno.csproj", "{4FE5B912-569B-4679-A747-76759277369B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - PolojitelnoOtricatelno", "P10 - PolojitelnoOtricatelno\P10 - PolojitelnoOtricatelno.csproj", "{C365A8C9-AA3F-403C-877B-4D5AD6D4AFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{37ACE696-FBFC-4D03-90BB-72723DBA8C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - LicaFiguri", "P11 - LicaFiguri\P11 - LicaFiguri.csproj", "{021E4BC0-C9D7-44CF-ABAA-C33684A5CC75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +69,18 @@ Global
 		{4FE5B912-569B-4679-A747-76759277369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE5B912-569B-4679-A747-76759277369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE5B912-569B-4679-A747-76759277369B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C365A8C9-AA3F-403C-877B-4D5AD6D4AFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C365A8C9-AA3F-403C-877B-4D5AD6D4AFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C365A8C9-AA3F-403C-877B-4D5AD6D4AFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C365A8C9-AA3F-403C-877B-4D5AD6D4AFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37ACE696-FBFC-4D03-90BB-72723DBA8C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37ACE696-FBFC-4D03-90BB-72723DBA8C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37ACE696-FBFC-4D03-90BB-72723DBA8C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37ACE696-FBFC-4D03-90BB-72723DBA8C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021E4BC0-C9D7-44CF-ABAA-C33684A5CC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021E4BC0-C9D7-44CF-ABAA-C33684A5CC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021E4BC0-C9D7-44CF-ABAA-C33684A5CC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021E4BC0-C9D7-44CF-ABAA-C33684A5CC75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
