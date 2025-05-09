@@ -16,8 +16,8 @@ namespace P6___Brush
         {
             Graphics g = e.Graphics;
 
-            Brush b = new SolidBrush(Color.Red);
-            g.FillRectangle(b,10,10,200,200);
+            Brush b = new SolidBrush(Color.Blue);
+            g.FillRectangle(b,10,10,200,600);
         }
     }
 }
