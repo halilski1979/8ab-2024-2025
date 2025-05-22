@@ -33,29 +33,31 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(248, 269);
+            button1.Location = new Point(239, 259);
             button1.Name = "button1";
             button1.Size = new Size(222, 73);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "K L I C K";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
             // richTextBox1
             // 
-            richTextBox1.Location = new Point(74, 60);
+            richTextBox1.Location = new Point(72, 51);
             richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(91, 137);
+            richTextBox1.Size = new Size(97, 146);
             richTextBox1.TabIndex = 1;
             richTextBox1.Text = "";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(210, 60);
+            textBox1.Location = new Point(239, 51);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(106, 63);
@@ -63,26 +65,46 @@
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(210, 144);
+            textBox2.Location = new Point(239, 139);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(106, 53);
+            textBox2.Size = new Size(106, 58);
             textBox2.TabIndex = 3;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(248, 368);
+            label1.Location = new Point(249, 364);
             label1.Name = "label1";
             label1.Size = new Size(38, 15);
             label1.TabIndex = 4;
             label1.Text = "label1";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(210, 74);
+            label2.Name = "label2";
+            label2.Size = new Size(23, 15);
+            label2.TabIndex = 5;
+            label2.Text = "A=";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(201, 161);
+            label3.Name = "label3";
+            label3.Size = new Size(22, 15);
+            label3.TabIndex = 6;
+            label3.Text = "B=";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(746, 458);
+            Controls.Add(label3);
+            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -101,5 +123,7 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Label label1;
+        private Label label2;
+        private Label label3;
     }
 }
