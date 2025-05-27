@@ -9,6 +9,7 @@ namespace Zadacha1
 
         private void button1_Click(object sender, EventArgs e)
         {
+           
             try
             {
                 // Вземаме числата от RichTextBox
@@ -34,6 +35,12 @@ namespace Zadacha1
             {
                 MessageBox.Show("Моля, уверете се, че въведените стойности са цели числа.", "Грешка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+            richTextBox1.SelectionFont = new Font("Arial", 12, FontStyle.Bold);
+            richTextBox1.SelectionColor = Color.Red;
         }
     }
 }
